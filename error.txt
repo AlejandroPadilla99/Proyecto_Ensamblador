@@ -1,0 +1,10 @@
+;comentario número 1 =SEMINARIO=
+	ORG	%00001111
+2t1	equ	$ffFF
+dos	LDAA	@4732
+	SWI
+	DS..	%0011000011111100
+;comentario número 2 !Traductores¡
+;comentario número 3
+tres	sWi
+	End
