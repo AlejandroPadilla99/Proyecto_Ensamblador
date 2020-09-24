@@ -1,0 +1,376 @@
+ABA	No Operando	Inherente 	1806	0	2
+ADCA	Operando	Inmediato	89	1	2
+adca	Operando	Directo	99	1	2
+adca	Operando	Extendido	B9	2	3
+adca	Operando	IDX	A9	1	2
+adca	Operando	IDX1	A9	2	3
+adca	Operando	IDX2	A9	3	4
+adca	Operando	[D,IDX]	A9	1	2
+adca	Operando	[IDX2]	A9	3	4
+ADCB	Operando	Inmediato	C9	1	2
+adcb	Operando	Directo	D9	1	2
+adcb	Operando	Extendido	F9	2	3
+adcb	Operando	IDX	E9	1	2
+adcb	Operando	IDX1	E9	2	3
+adcb	Operando	IDX2	E9	3	4
+adcb	Operando	[D,IDX]	E9	1	2
+adcb	Operando	[IDX2]	E9	3	4
+ADDA	Operando	Inmediato	8B	1	2
+adda	Operando	Directo	9B	1	2
+adda	Operando	Extendido	BB	2	3
+adda	Operando	IDX	AB	1	2
+adda	Operando	IDX1	AB	2	3
+adda	Operando	IDX2	AB	3	4
+adda	Operando	[D,IDX]	AB	1	2
+adda	Operando	[IDX2]	AB	3	4
+ADDB	Operando	Inmediato	CB	1	2
+addb	Operando	Directo	DB	1	2
+addb	Operando	Extendido	FB	2	3
+addb	Operando	IDX	EB	1	2
+addb	Operando	IDX1	EB	2	3
+addb	Operando	IDX2	EB	3	4
+addb	Operando	[D,IDX]	EB	1	2
+addb	Operando	[IDX2]	EB	3	4
+ADDD	Operando	Inmediato	C3	2	3
+addd	Operando	Directo	D3	1	2
+addd	Operando	Extendido	F3	2	3
+addd	Operando	IDX	E3	1	2
+addd	Operando	IDX1	E3	2	3
+addd	Operando	IDX2	E3	3	4
+addd	Operando	[D,IDX]	E3	1	2
+addd	Operando	[IDX2]	E3	3	4
+ANDA	Operando	Inmediato	84	1	2
+anda	Operando	Directo	94	1	2
+anda	Operando	Extendido	B4	2	3
+anda	Operando	IDX	A4	1	2
+anda	Operando	IDX1	A4	2	3
+anda	Operando	IDX2	A4	3	4
+anda	Operando	[D,IDX]	A4	1	2
+anda	Operando	[IDX2]	A4	3	4
+ANDB	Operando	Inmediato	C4	1	2
+andb	Operando	Directo	D4	1	2
+andb	Operando	Extendido	F4	2	3
+andb	Operando	IDX	E4	1	2
+andb	Operando	IDX1	E4	2	3
+andb	Operando	IDX2	E4	3	4
+andb	Operando	[D,IDX]	E4	1	2
+andb	Operando	[IDX2]	E4	3	4
+BCC	Operando	REL	24	1	2
+BCS	Operando	REL	25	1	2
+BEQ	Operando	REL	27	1	2
+BGE	Operando	REL	2C	1	2
+BGND	No Operando	Inherente 	0	0	1
+BGT	Operando	REL	2E	1	2
+BHI	Operando	REL	22	1	2
+BHS	Operando	REL	24	1	2
+BITA	Operando	Inmediato	85	1	2
+bita	Operando	Directo	95	1	2
+bita	Operando	Extendido	B5	2	3
+bita	Operando	IDX	A5	1	2
+bita	Operando	IDX1	A5	2	3
+bita	Operando	IDX2	A5	3	4
+bita	Operando	[D,IDX]	A5	1	2
+bita	Operando	[IDX2]	A5	3	4
+BITB	Operando	Inmediato	C5	1	2
+bitb	Operando	Directo	D5	1	2
+bitb	Operando	Extendido	F5	2	3
+bitb	Operando	IDX	E5	1	2
+bitb	Operando	IDX1	E5	2	3
+bitb	Operando	IDX2	E5	3	4
+bitb	Operando	[D,IDX]	E5	1	2
+bitb	Operando	[IDX2]	E5	3	4
+BLE	Operando	REL	2F	1	2
+BLO	Operando	REL	25	1	2
+BLS	Operando	REL	23	1	2
+BLT	Operando	REL	2D	1	2
+BMI	Operando	REL	2B	1	2
+BNE	Operando	REL	26	1	2
+BPL	Operando	REL	2A	1	2
+BRA	Operando	REL	20	1	2
+BRN	Operando	REL	21	1	2
+BSR	Operando	REL	07	1	2
+BVC	Operando	REL	28	1	2
+BVS	Operando	REL	29	1	2
+CBA	No Operando	Inherente	1817	0	2
+CLRA	No Operando	Inherente	87	0	1
+CLRB	No Operando	Inherente	C7	0	1
+CMPA	Operando	Inmediato	81	1	2
+cmpa	Operando	Directo	91	1	2
+cmpa	Operando	Extendido	B1	2	3
+cmpa	Operando	IDX	A1	1	2
+cmpa	Operando	IDX1	A1	2	3
+cmpa	Operando	IDX2	A1	3	4
+cmpa	Operando	[D,IDX]	A1	1	2
+cmpa	Operando	[IDX2]	A1	3	4
+CMPB	Operando	Inmediato	C1	1	2
+cmpb	Operando	Directo	D1	1	2
+cmpb	Operando	Extendido	F1	2	3
+cmpb	Operando	IDX	E1	1	2
+cmpb	Operando	IDX1	E1	2	3
+cmpb	Operando	IDX2	E1	3	4
+cmpb	Operando	[D,IDX]	E1	1	2
+cmpb	Operando	[IDX2]	E1	3	4
+COMA	No Operando	Inherente	41	0	1
+COMB	No Operando	Inherente	51	0	1
+CPD	Operando	Inmediato	8C	2	3
+cpd	Operando	Directo	9C	1	2
+cpd	Operando	Extendido	BC	2	3
+cpd	Operando	IDX	AC	1	2
+cpd	Operando	IDX1	AC	2	3
+cpd	Operando	IDX2	AC	3	4
+cpd	Operando	[D,IDX]	AC	1	2
+cpd	Operando	[IDX2]	AC	3	4
+CPS	Operando	Inmediato	8F	2	3
+cps	Operando	Directo	9F	1	2
+cps	Operando	Extendido	BF	2	3
+cps	Operando	IDX	AF	1	2
+cps	Operando	IDX1	AF	2	3
+cps	Operando	IDX2	AF	3	4
+cps	Operando	[D,IDX]	AF	1	2
+cps	Operando	[IDX2]	AF	3	4
+CPX	Operando	Inmediato	8E	2	3
+cpx	Operando	Directo	9E	1	2
+cpx	Operando	Extendido	BE	2	3
+cpx	Operando	IDX	AE	1	2
+cpx	Operando	IDX1	AE	2	3
+cpx	Operando	IDX2	AE	3	4
+cpx	Operando	[D,IDX]	AE	1	2
+cpx	Operando	[IDX2]	AE	3	4
+CPY	Operando	Inmediato	8D	2	3
+cpy	Operando	Directo	9D	1	2
+cpy	Operando	Extendido	BD	2	3
+cpy	Operando	IDX	AD	1	2
+cpy	Operando	IDX1	AD	2	3
+cpy	Operando	IDX2	AD	3	4
+cpy	Operando	[D,IDX]	AD	1	2
+cpy	Operando	[IDX2]	AD	3	4
+DAA	No Operando	Inherente	1807	0	2
+SBA	No Operando	Inherente	1816	0	2
+SBCA	Operando	Inmediato	82	1	2
+sbca	Operando	Directo	92	1	2
+sbca	Operando	Extendido	B2	2	3
+sbca	Operando	IDX	A2	1	2
+sbca	Operando	IDX1	A2	2	3
+sbca	Operando	IDX2	A2	3	4
+sbca	Operando	[D,IDX]	A2	1	2
+sbca	Operando	[IDX2]	A2	3	4
+SBCB	Operando	Inmediato	C2	1	2
+sbcb	Operando	Directo	D2	1	2
+sbcb	Operando	Extendido	F2	2	3
+sbcb	Operando	IDX	E2	1	2
+sbcb	Operando	IDX1	E2	2	3
+sbcb	Operando	IDX2	E2	3	4
+sbcb	Operando	[D,IDX]	E2	1	2
+sbcb	Operando	[IDX2]	E2	3	4
+STAA	Operando	Directo	5A	1	2
+staa	Operando	Extendido	7A	2	3
+staa	Operando	IDX	6A	1	2
+staa	Operando	IDX1	6A	2	3
+staa	Operando	IDX2	6A	3	4
+staa	Operando	[D,IDX]	6A	1	2
+staa	Operando	[IDX2]	6A	3	4
+STAB	Operando	Directo	5B	1	2
+stab	Operando	Extendido	7B	2	3
+stab	Operando	IDX	6B	1	2
+stab	Operando	IDX1	6B	2	3
+stab	Operando	IDX2	6B	3	4
+stab	Operando	[D,IDX]	6B	1	2
+stab	Operando	[IDX2]	6B	3	4
+STD	Operando	Directo	5C	1	2
+std	Operando	Extendido	7C	2	3
+std	Operando	IDX	6C	1	2
+std	Operando	IDX1	6C	2	3
+std	Operando	IDX2	6C	3	4
+std	Operando	[D,IDX]	6C	1	2
+std	Operando	[IDX2]	6C	3	4
+STOP	No Operando	Inherente	183E	0	2
+STS	Operando	Directo	5F	1	2
+sts	Operando	Extendido	7F	2	3
+sts	Operando	IDX	6F	1	2
+sts	Operando	IDX1	6F	2	3
+sts	Operando	IDX2	6F	3	4
+sts	Operando	[D,IDX]	6F	1	2
+sts	Operando	[IDX2]	6F	3	4
+STX	Operando	Directo	5E	1	2
+stx	Operando	Extendido	7E	2	3
+stx	Operando	IDX	6E	1	2
+stx	Operando	IDX1	6E	2	3
+stx	Operando	IDX2	6E	3	4
+stx	Operando	[D,IDX]	6E	1	2
+stx	Operando	[IDX2]	6E	3	4
+STY	Operando	Directo	5D	1	2
+sty	Operando	Extendido	7D	2	3
+sty	Operando	IDX	6D	1	2
+sty	Operando	IDX1	6D	2	3
+sty	Operando	IDX2	6D	3	4
+sty	Operando	[D,IDX]	6D	1	2
+sty	Operando	[IDX2]	6D	3	4
+SUBA	Operando	Inmediato	80	1	2
+suba	Operando	Directo	90	1	2
+suba	Operando	Extendido	B0	2	3
+suba	Operando	IDX	A0	1	2
+suba	Operando	IDX1	A0	2	3
+suba	Operando	IDX2	A0	3	4
+suba	Operando	[D,IDX]	A0	1	2
+suba	Operando	[IDX2]	A0	3	4
+SUBB	Operando	Inmediato	C0	1	2
+subb	Operando	Directo	D0	1	2
+subb	Operando	Extendido	F0	2	3
+subb	Operando	IDX	E0	1	2
+subb	Operando	IDX1	E0	2	3
+subb	Operando	IDX2	E0	3	4
+subb	Operando	[D,IDX]	E0	1	2
+subb	Operando	[IDX2]	E0	3	4
+SUBD	Operando	Inmediato	83	2	3
+subd	Operando	Directo	93	1	2
+subd	Operando	Extendido	B3	2	3
+subd	Operando	IDX	A3	1	2
+subd	Operando	IDX1	A3	2	3
+subd	Operando	IDX2	A3	3	4
+subd	Operando	[D,IDX]	A3	1	2
+subd	Operando	[IDX2]	A3	3	4
+SWI	No Operando	Inherente	3F	0	1
+TAB	No Operando	Inherente	180E	0	2
+TAP	No Operando	Inherente	B702	0	2
+TBA	No Operando	Inherente	180F	0	2
+TPA	No Operando	Inherente	B720	0	2
+TSTA	No Operando	Inherente	97	0	1
+TSTB	No Operando	Inherente	D7	0	1
+TSX	No Operando	Inherente	B775	0	2
+TSY	No Operando	Inherente	B776	0	2
+TXS	No Operando	Inherente	B757	0	2
+TYS	No Operando	Inherente	B767	0	2
+WAI	No Operando	Inherente	3E	0	1
+WAV	No Operando	Inherente	183C	0	2
+XGDX	No Operando	Inherente	B7C5	0	2
+XGDY	No Operando	Inherente	B7C6	0	2
+
+DEX	No Operando	Inherente	09	0	1
+DEY	No Operando	Inherente	03	0	1
+EDIVS	No Operando	Inherente	11	0	1
+EDIVS	No Operando	Inherente	1814	0	2
+EMUL	No Operando	Inherente	13	0	1
+EMULS	No Operando	Inherente	1813	0	2
+EORA	Operando	Inmediato	89	1	2
+eora	Operando	Directo	98	1	2
+eora	Operando	Extendido	B8	2	3
+eora	Operando	IDX	A8	1	2
+eora	Operando	IDX1	A8	2	3
+eora	Operando	IDX2	A8	3	4
+eora	Operando	[D,IDX]	A8	1	2
+eora	Operando	[IDX2]	A8	3	4
+EORB	Operando	Inmediato	C8	1	2
+eorb	Operando	Directo	D8	1	2
+eorb	Operando	Extendido	F8	2	3
+eorb	Operando	IDX	E8	1	2
+eorb	Operando	IDX1	E8	2	3
+eorb	Operando	IDX2	E8	3	4
+eorb	Operando	[D,IDX]	E8	1	2
+eorb	Operando	[IDX2]	E8	3	4
+FDIV	No Operando	Inherente	1811	0	2
+IDIV	No Operando	Inherente	1810	0	2
+IDIVS	No Operando	Inherente	1815	0	2
+INX	No Operando	Inherente	08	0	1
+INY	No Operando	Inherente	02	0	1
+LBCC	Operando	REL	1824	2	4
+LBCS	Operando	REL	1825	2	4
+LEBQ	Operando	REL	1827	2	4
+LBGE	Operando	REL	182C	2	4
+LBGT	Operando	REL	182E	2	4
+LBHI	Operando	REL	1822	2	4
+LBHS	Operando	REL	1824	2	4
+LBLE	Operando	REL	182F	2	4
+LBLO	Operando	REL	1825	2	4
+LBLS	Operando	REL	1823	2	4
+LBLT	Operando	REL	182D	2	4
+LBMI	Operando	REL	182B	2	4
+LBNE	Operando	REL	1826	2	4
+LBPL	Operando	REL	182A	2	4
+LBRA	Operando	REL	1820	2	4
+LBRN	Operando	REL	1821	2	4
+LBVC	Operando	REL	1828	2	4
+LBVS	Operando	REL	1829	2	4
+LDAA	Operando	Inmediato	86	1	2
+ldaa	Operando	Directo	96	1	2
+ldaa	Operando	Extendido	B6	2	3
+ldaa	Operando	IDX	A6	1	2
+ldaa	Operando	IDX1	A6	2	3
+ldaa	Operando	IDX2	A6	3	4
+ldaa	Operando	[D,IDX]	A6	1	2
+ldaa	Operando	[IDX2]	A6	3	4
+LDAB	Operando	Inmediato	C6	1	2
+ldab	Operando	Directo	D6	1	2
+ldab	Operando	Extendido	F6	2	3
+ldab	Operando	IDX	E6	1	2
+ldab	Operando	IDX1	E6	2	3
+ldab	Operando	IDX2	E6	3	4
+ldab	Operando	[D,IDX]	E6	1	2
+ldab	Operando	[IDX2]	E6	3	4
+LDD	Operando	Inmediato	CC	2	3
+ldd	Operando	Directo	DC	1	2
+ldd	Operando	Extendido	FC	2	3
+ldd	Operando	IDX	EC	1	2
+ldd	Operando	IDX1	EC	2	3
+ldd	Operando	IDX2	EC	3	4
+ldd	Operando	[D,IDX]	EC	1	2
+ldd	Operando	[IDX2]	EC	3	4
+LDS	Operando	Inmediato	CF	2	3
+lds	Operando	Directo	DF	1	2
+lds	Operando	Extendido	FF	2	3
+lds	Operando	IDX	EF	1	2
+lds	Operando	IDX1	EF	2	3
+lds	Operando	IDX2	EF	3	4
+lds	Operando	[D,IDX]	EF	1	2
+lds	Operando	[IDX2]	EF	3	4
+LDX	Operando	Inmediato	CE	2	3
+ldx	Operando	Directo	DE	1	2
+ldx	Operando	Extendido	FE	2	3
+ldx	Operando	IDX	EE	1	2
+ldx	Operando	IDX1	EE	2	3
+ldx	Operando	IDX2	EE	3	4
+ldx	Operando	[D,IDX]	EE	1	2
+ldx	Operando	[IDX2]	EE	3	4
+LDY	Operando	Inmediato	CD	2	3
+ldy	Operando	Directo	DD	1	2
+ldy	Operando	Extendido	FD	2	3
+ldy	Operando	IDX	ED	1	2
+ldy	Operando	IDX1	ED	2	3
+ldy	Operando	IDX2	ED	3	4
+ldy	Operando	[D,IDX]	ED	1	2
+ldy	Operando	[IDX2]	ED	3	4
+MUL	No Operando	Inherente	12	0	1
+ORAA	Operando	Inmediato	8A	1	2
+oraa	Operando	Directo	9A	1	2
+oraa	Operando	Extendido	BA	2	3
+oraa	Operando	IDX	AA	1	2
+oraa	Operando	IDX1	AA	2	3
+oraa	Operando	IDX2	AA	3	4
+oraa	Operando	[D,IDX]	AA	2	3
+oraa	Operando	[IDX2]	AA	3	4
+ORAB	Operando	Inmediato	CA	1	2
+orab	Operando	Directo	DA	1	2
+orab	Operando	Extendido	FA	2	3
+orab	Operando	IDX	EA	1	2
+orab	Operando	IDX1	EA	2	3
+orab	Operando	IDX2	EA	3	4
+orab	Operando	[D,IDX]	EA	1	2
+orab	Operando	[IDX2]	EA	3	4
+PSHA	No Operando	Inherente	36	0	1
+PSHB	No Operando	Inherente	37	0	1
+PSHC	No Operando	Inherente	39	0	1
+PSHD	No Operando	Inherente	3B	0	1
+PSHX	No Operando	Inherente	34	0	1
+PSHY	No Operando	Inherente	35	0	1
+PULA	No Operando	Inherente	32	0	1
+PULB	No Operando	Inherente	33	0	1
+PULC	No Operando	Inherente	38	0	1
+PULD	No Operando	Inherente	3A	0	1
+PULX	No Operando	Inherente	30	0	1
+PULY	No Operando	Inherente	31	0	1
+ROLA	No Operando	Inherente	45	0	1
+ROLB	No Operando	Inherente	55	0	1
+RORA	No Operando	Inherente	46	0	1
+RORB	No Operando	Inherente	56	0	1
+RTC	No Operando	Inherente	0A	0	1
+RTI	No Operando	Inherente	0B	0	1
+RTS	No Operando	Inherente	3D	0	1
